@@ -56,8 +56,6 @@ npm run dev
 
 Open in browser:
 
-http://localhost:5173
-
 📸 How It Works
 
 Upload an audio file.
